@@ -1,0 +1,22 @@
+[
+  {
+    "id": "smooth-scroll",
+    "thumbnailUrl": "https://i.postimg.cc/nHTspHvy/smooth-scroll.png",
+    "title": "Here's how to add<br><b>smooth/momentum scrolling</b><br>to your website in <i>2 minutes</i>.",
+    "videoId": "Z_hlYzdbf3M",
+    "previewUrl": "https://ollefrost.github.io/ollecss/smooth-scroll/",
+    "gists": [
+      {
+        "id": "56114e53a60170213c49d90069491ed3",
+        "description": "The code to copy and paste."
+      }
+    ],
+    "credits": [
+      {
+        "linkText": "butter.js by BCJ Development",
+        "linkUrl": "https://github.com/BCJdevelopment/butter.js",
+        "description": "Provides the smooth scrolling behaviour."
+      }
+    ]
+  }
+]
