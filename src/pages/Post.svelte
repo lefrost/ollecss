@@ -55,7 +55,7 @@
           <div class="post__text  small--">{gist.description}</div>
 
           <Gist
-            gistUrl="https://gist.github.com/ollefrost/{gist.id}"
+            gistUrl="https://gist.github.com/lefrst/{gist.id}"
             id="bar"
           />
         </div>
